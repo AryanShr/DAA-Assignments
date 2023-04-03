@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.tcc": "cpp",
+        "iosfwd": "cpp",
+        "chrono": "cpp"
+    }
+}
